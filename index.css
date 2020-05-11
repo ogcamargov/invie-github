@@ -1,6 +1,11 @@
 *{
-    margin: 90%;
+margin-top: 10px;
+margin: 50px;
+text-align: justify;
 }
 footer {
-    background-color: #ffffff;
+    background-color: #444444;
+}
+.imageB {
+    margin-top: 30px;
 }
